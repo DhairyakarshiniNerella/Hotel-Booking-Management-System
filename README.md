@@ -120,13 +120,7 @@ Before you begin, make sure you have the following installed:
 
 If you're a developer looking to contribute or customize the project, refer to the Developer Guide for more information.
 
-## Credits
 
-1. [Nishal Barman](https://github.com/nishalbarman)
-2. [Monu Singh](https://github.com/monurajputrko)
-3. [Gaurav Sharma](https://github.com/gauravvxv)
-4. [Md Dilnawaz Alam](https://github.com/dilsah786)
-5. [Vamsi Shetty](https://github.com/Vamsi-Shetty)
 
 ## Contributing
 
